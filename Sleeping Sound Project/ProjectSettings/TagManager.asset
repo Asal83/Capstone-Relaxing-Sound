@@ -41,6 +41,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Nature Background
+  - name: Background Image
     uniqueID: 2402031509
     locked: 0
