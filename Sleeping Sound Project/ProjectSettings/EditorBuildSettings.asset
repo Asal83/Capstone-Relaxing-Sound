@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Sleeping Songs.unity
+    path: Assets/Scenes/SongsMenu.unity
     guid: 73b50820e31c65348a44a2876e288b70
   - enabled: 1
-    path: Assets/Scenes/2.unity
+    path: Assets/Scenes/SleepingScene.unity
     guid: 1b6554474bbc9e644bf138799b022fb6
   - enabled: 1
     path: Assets/Scenes/FocusScene.unity
