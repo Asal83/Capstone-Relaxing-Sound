@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FocusScene.unity
     guid: 2a7c6daef44361f4ebd00d4feff8d559
+  - enabled: 1
+    path: Assets/Scenes/NatureSong.unity
+    guid: bf4720d5bc7c7964ab6f01da7dc51392
   m_configObjects: {}
